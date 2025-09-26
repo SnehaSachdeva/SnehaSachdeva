@@ -1,6 +1,6 @@
 # Hi, I'm Sneha 👋  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Software+Engineer+in+the+Making;Java+%26+Full+Stack+Developer;Competitive+Programmer;AI+%26+Data+Analytics+Enthusiast)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Future+Leader+in+the+Making;Software+Engineer;Java+%26+Full+Stack+Developer;Competitive+Programmer)](https://git.io/typing-svg)  
 
 ![Profile views](https://komarev.com/ghpvc/?username=SnehaSachdeva&color=ff69b4&style=flat-square)  
 ![GitHub followers](https://img.shields.io/github/followers/SnehaSachdeva?label=Follow&style=social)  
