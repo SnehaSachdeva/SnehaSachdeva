@@ -87,7 +87,12 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sneha_sach12?ext=heatmap)  
 
 🥉 **HackerRank:** ([@snehasachdeva10](https://www.hackerrank.com/profile/snehasachdeva10))
-![HackerRank Stats](https://github-readme-hackerrank-stats.vercel.app/api?hacker_rank_username=snehasachdeva10)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-snehasachdeva10-2EA44F?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/snehasachdeva10)
+
+[![Problems Solved](https://img.shields.io/badge/Solved-{{HR_SOLVED}}-blue)](https://www.hackerrank.com/snehasachdeva10/)
+[![Ranking](https://img.shields.io/badge/Ranking-{{HR_RANK}}-9cf)](https://www.hackerrank.com/snehasachdeva10/)
+[![Badges](https://img.shields.io/badge/Badges-{{HR_BADGES}}-orange)](https://www.hackerrank.com/snehasachdeva10/)
 
 ---
 
